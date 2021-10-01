@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jedrzej-stanczewski
+- 👋 Hi, I’m @jedrzej-stanczewski</br>
 Studying at PJATK
 
 <!---
